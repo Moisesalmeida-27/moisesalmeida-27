@@ -1,3 +1,3 @@
 # hello word!
 ### meu nome é moises almeida, sou estuidante de ENGENHARIA DE SOFTWARE e estou configurando meu github!!
-![digimon] {https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5M2ppdnJsMTN4Mms1NHV1ZTJxaGU0c2JjMmwzbTlodG1jYWlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8FygvdLyQ3bBHbhrnz/giphy.gif}
+# ![texto da imagem]{https://a.storyblok.com/f/178900/3840x2160/c86b8ca80d/digimon-tamers.jpg/m/1200x0/filters:quality(95)format(webp)}
