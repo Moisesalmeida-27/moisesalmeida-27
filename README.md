@@ -26,4 +26,6 @@
 ------------------------
 ![moises almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesalmeida-27&show_icons=true&theme=radical)
 
+<img loading="lazy" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesalmeida-27&layout=compact&langs_count=7&theme=dracula">
+
 https://github.com/anuraghazra/github-readme-stats
