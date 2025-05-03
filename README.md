@@ -2,11 +2,11 @@
  
  ![gif do gatinho](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
 ---------------------------------------------
- 😳 ola meu nome é moises!
+ 😳 ola, meu nome é moises!
 
  💬 sou estudante de engenharia de sofware!
 
- 💻 estou aprendendo lingua gem de programaçao
+ 💻 estou aprendendo linguagem de programaçao
 
 -------------------------------------------
 
@@ -24,6 +24,6 @@
 |Formatação com Markdown| [crtificado](https://hermes.dio.me/certificates/FCEDZ6GZ.pdf)
 |Primeiros Passos com HTML| [certificado](https://hermes.dio.me/certificates/SGRPKGFA.pdf)
 ------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![moises almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesalmeida-27&show_icons=true&theme=radical)
 
 https://github.com/anuraghazra/github-readme-stats
